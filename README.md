@@ -1,4 +1,5 @@
 *Lista de Exercícios 10 - Arquivos* 
+
 *PDF:[lista_atp_10_arquivos.pdf](https://github.com/user-attachments/files/19981054/lista_atp_10_arquivos.pdf)*
 
 
