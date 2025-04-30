@@ -1,8 +1,8 @@
-*Lista de Exercícios 10 - Arquivos* 
-
-*PDF:[lista_atp_10_arquivos.pdf](https://github.com/user-attachments/files/19981054/lista_atp_10_arquivos.pdf)*
-
-
+Observações:
+● Cópias serão desconsideradas, ou seja, a nota será igual a 0 (zero).
+● Implemente os programas utilizando a linguagem C#.
+● Na resolução dos exercícios só podem ser utilizados comandos vistos nas aulas.
+Lista de Exercícios 10 - Arquivos
 Para as questões 01 a 05, utilize como referência o arquivo “arquivo-01.txt” que se encontra junto da
 atividade. O arquivo contém linhas com dados relacionados a felinos:
 a) Nome popular;
@@ -34,5 +34,5 @@ João Maria Silva/230943086
 Crie um programa que leia este arquivo e gere um relatório, chamado "relatório.txt", no seguinte formato:
 nomeFuncionario/PercentualUsoDoDiscoDesteFuncionario
 No final do arquivo deve ser escrito o total de espaço de disco ocupado (em bytes) e o percentual de uso
-total do disco. 
+total do disco.
 
