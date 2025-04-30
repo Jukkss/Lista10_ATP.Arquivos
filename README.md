@@ -1,4 +1,6 @@
-*Lista de Exercícios 10 - Arquivos*
+*Lista de Exercícios 10 - Arquivos* 
+*PDF:[lista_atp_10_arquivos.pdf](https://github.com/user-attachments/files/19981054/lista_atp_10_arquivos.pdf)*
+
 
 Para as questões 01 a 05, utilize como referência o arquivo “arquivo-01.txt” que se encontra junto da
 atividade. O arquivo contém linhas com dados relacionados a felinos:
@@ -32,3 +34,4 @@ Crie um programa que leia este arquivo e gere um relatório, chamado "relatório
 nomeFuncionario/PercentualUsoDoDiscoDesteFuncionario
 No final do arquivo deve ser escrito o total de espaço de disco ocupado (em bytes) e o percentual de uso
 total do disco. 
+
