@@ -37,7 +37,9 @@ Obs. 2: O programa deve ser genérico — os intervalos não devem ser programad
 
 ### Questão 06 – Relatório de uso de disco
 
-A empresa ACME está com problemas de espaço em disco (HD com 53.687.091.200 bytes). Existem 100 funcionários. As informações de utilização estão no arquivo `usuarios.txt`, no seguinte formato:
+A empresa ACME está enfrentando problemas de espaço em disco. O HD tem um tamanho total de `53687091200` bytes (50 GB), e existem 100 funcionários. As informações de uso individual estão contidas no arquivo `usuarios.txt`, com o seguinte formato:
+
+
 
 
 
