@@ -1,4 +1,4 @@
-###*Lista de Exercícios 10 - Arquivos*###
+*Lista de Exercícios 10 - Arquivos*
 
 Para as questões 01 a 05, utilize como referência o arquivo “arquivo-01.txt” que se encontra junto da
 atividade. O arquivo contém linhas com dados relacionados a felinos:
